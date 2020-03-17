@@ -7,7 +7,7 @@ class Shoe
   end
 
   def coble
-    
+
   end
 
 end
