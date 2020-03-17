@@ -2,7 +2,7 @@ class Shoe
   attr_accessor :color
   attr_reader :brand
 
-  def initialize(shoe_brand)
+  def initialize(brand)
     @name = shoe_brand
   end
 
